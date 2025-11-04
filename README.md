@@ -1,4 +1,4 @@
-# Post Graduate Supervision System - Backend
+# Post Graduate Supervision System
 
 This is the backend implementation for the UTMGradient Post Graduate Supervision System.
 
